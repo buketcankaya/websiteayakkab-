@@ -1,2 +1,1 @@
-# websiteayakkab-
-# dinamikwebsitesi
+# dinamikwebsitesiproje
